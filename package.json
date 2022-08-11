@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "ajv": "^8.11.0",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
   },
